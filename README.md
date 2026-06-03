@@ -143,6 +143,11 @@ El análisis es de naturaleza **correlacional y exploratorio** — no establece 
 
 ---
 
+## 📊 Visualizaciones
+
+![](png/3.3scatterplot_vistas_mes_ingleso_anual.png)
+![](png/heatmap_matriz_correlacion_general.png)
+
 ## ⚙️ Requisitos
 
 ```bash
@@ -199,12 +204,14 @@ jupyter notebook S8-Project-NovaRetail.ipynb
 
 ```
 📦 TU_REPOSITORIO
- ┣ 📂 img/
+ ┣ 📂 png/
  ┃ ┣ heatmap_correlacion.png
  ┃ ┗ scatterplot_compras_ingreso.png
+ ┣ 📂 datasets/
+ ┃ ┣ 📄 novaretail.csv
+ ┣ 📂 datasets_clean/
+ ┃ ┣ 📄 novaretail_clean.csv
  ┣ 📓 S8-Project-NovaRetail.ipynb
- ┣ 📄 novaretail_comportamiento_clientes_2024.csv
- ┣ 📄 novaretail_clean.csv
  ┗ 📄 README.md
 ```
 
