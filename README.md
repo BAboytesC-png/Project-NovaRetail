@@ -145,8 +145,9 @@ El análisis es de naturaleza **correlacional y exploratorio** — no establece 
 
 ## 📊 Visualizaciones
 
-![](png/3.3scatterplot_vistas_mes_ingleso_anual.png)
-![](png/heatmap_matriz_correlacion_general.png)
+![](Png/3.3scatterplot_vistas_mes_ingleso_anual.png)
+
+![](Png/heatmap_matriz_correlacion_general.png)
 
 ## ⚙️ Requisitos
 
