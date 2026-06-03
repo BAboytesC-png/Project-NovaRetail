@@ -215,9 +215,3 @@ jupyter notebook S8-Project-NovaRetail.ipynb
  ┣ 📓 S8-Project-NovaRetail.ipynb
  ┗ 📄 README.md
 ```
-
----
-
-## 👤 Autor
-
-Proyecto desarrollado como parte del Sprint 8 del programa de Análisis de Datos.
